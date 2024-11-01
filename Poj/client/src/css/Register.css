@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+section {
+    width: 100%;
+    padding: 10px;
+    min-height: calc(111vh - 80px);
+    background: #4070f4;
+}
+
+section .form_data {
+    max-width: 550px;
+    margin: 25px auto;
+    padding: 35px 10px;
+    box-shadow: 0 0 15px -10px #2d3748;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #fff;
+}
+
+section .login {
+    margin-top: 100px;
+}
+
+
+
+.form_heading {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form_data h1 {
+    font-size: 34px;
+}
+
+
+.form_data p {
+    font-size: 15px;
+    margin-top: 9px;
+}
+
+.form_data form {
+    /* margin-top: 15px; */
+    width: 100%;
+    padding: 10px 50px;
+}
+
+.form_data form .form_input input {
+    width: 96%;
+    height: 52px;
+    padding: 11px;
+    border: 1px solid #4070f4;
+    border-radius: 6px;
+    outline: none;
+    margin-bottom: 14px;
+    margin-top: 9px;
+    font-size: 17px;
+    font-weight: 400;
+    border: 1.5px solid #C7BEBE;
+    border-bottom-width: 2.5px;
+    transition: all 0.3s ease;
+}
+
+.form_data form .form_input input:focus {
+    border-color: #4070f4;
+}
+
+.form_data form .form_input label {
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.form_input .two {
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.form_data form .form_input input::placeholder {
+    letter-spacing: .5px;
+    font-size: 17px;
+}
+
+.form_input .password{
+    margin-left: 10px;
+}
+.form_input .showpass {
+    position: absolute;
+    right: 0;
+    top: 1px;
+    padding: 3px 8px;
+    margin-right: 20px;
+    margin-top: 18px;
+    font-size: 14px;
+    font-weight: 600;
+    color: #4070f4;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+form .b {
+    display: block;
+    width: 100%;
+    padding: 15px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    background-color: #4070f4;
+    color: #fff;
+    font-weight: 600;
+    font-size: 18px;
+    margin-top: 10px;
+    cursor: pointer;
+    transition: all .3s;
+}
+
+
+form .b:hover {
+    background-color: #0e4bf1;
+}
+
+form .b::after {
+    content: '';
+}
+
+.form_data form p {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.form_data form a {
+    text-decoration: none;
+    color: #0e4bf1;
+    border-bottom: 2px solid #0e4bf1;
+}

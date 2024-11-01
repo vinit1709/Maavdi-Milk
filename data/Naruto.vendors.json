@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "6614f8e098e1bcb58442fa59"
+  },
+  "name": "Vinit Patel",
+  "email": "vupatel17@gmail.com",
+  "phone": "9510271569",
+  "state": "Gujarat",
+  "city": "Ahmedabad",
+  "address": "Resi. 2/1234, DALSUKHARAM NI POLE,\nCHAR SHERI,  DHOLKA.",
+  "pinCode": "382225",
+  "serviceRequest": "Thank You",
+  "status": "Confirm",
+  "msg": "xyz",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661673a6cd75df7dd2767871"
+  },
+  "name": "Rajesh Panchal",
+  "email": "rajeshp54154@gmail.com",
+  "phone": "7984184847",
+  "state": "Gujarat",
+  "city": "Ahmedabad",
+  "address": "Gota",
+  "pinCode": "380081",
+  "serviceRequest": "For a new Vendor",
+  "status": "Confirm",
+  "msg": "none",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66167442cd75df7dd2767874"
+  },
+  "name": "Hitesh",
+  "email": "hitep789@gmail.com",
+  "phone": "7984184847",
+  "state": "Gujarat",
+  "city": "Ahmedabad",
+  "address": "Gota",
+  "pinCode": "380081",
+  "serviceRequest": "For a new Vendor",
+  "status": "Confirm",
+  "msg": "none",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66167597cd75df7dd27678b9"
+  },
+  "name": "Tanti Krish",
+  "email": "tantikrish94@gmail.com",
+  "phone": "9106850046",
+  "state": "Gujarat",
+  "city": "Amreli",
+  "address": "Chalala-Khambha Rd, Ingorala",
+  "pinCode": "364320",
+  "serviceRequest": "For a new Vendor",
+  "status": "Confirm",
+  "msg": "none",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6616763fcd75df7dd27678e1"
+  },
+  "name": "Jay",
+  "email": "gohelprakash214@gmail.com",
+  "phone": "6351865717",
+  "state": "Gujarat",
+  "city": "Ahmedabad",
+  "address": "Gota",
+  "pinCode": "380081",
+  "serviceRequest": "For a new Vendor",
+  "status": "Confirm",
+  "msg": "none",
+  "__v": 0
+}]

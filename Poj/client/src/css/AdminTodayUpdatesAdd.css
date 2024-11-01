@@ -1,0 +1,61 @@
+.update {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 180px 0px 100px 570px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+h1 {
+    text-align: center;
+    color: #000000;
+    font-size: 2em;
+}
+
+h2 {
+    /* text-align: center; */
+    font-size: 1.5em;
+    margin-top: 20px;
+}
+
+input[type="text"],
+input[type="file"] {
+    width: 95%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+input[type="text"]:hover {
+    border-color: #0093d9;
+}
+
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+
+}
+
+.sub {
+
+    background-color: #6cc0e7;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 250px;
+    transition: background-color 0.3s;
+}
+
+.sub:hover {
+    background-color: #009ce5;
+}

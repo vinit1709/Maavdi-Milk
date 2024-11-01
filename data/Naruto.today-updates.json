@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "660ba69403ac44b4f802a1e2"
+  },
+  "productStatus": "123",
+  "priceStatus": "123",
+  "deliveryStatus": "123",
+  "extraDetails": "123",
+  "timestamp": {
+    "$date": "2024-04-14T07:46:14.332Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661b89da5645c5921b377d3d"
+  },
+  "productStatus": "abc",
+  "priceStatus": "abc",
+  "deliveryStatus": "abc",
+  "extraDetails": "xyz",
+  "timestamp": {
+    "$date": "2024-04-14T07:46:34.836Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661be84bfba6ed96a728580e"
+  },
+  "productStatus": "Taja",
+  "priceStatus": "24",
+  "deliveryStatus": "Una",
+  "extraDetails": "No details",
+  "timestamp": {
+    "$date": "2024-04-14T14:29:31.591Z"
+  },
+  "__v": 0
+}]

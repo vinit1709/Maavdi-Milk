@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "661bdd6eab0d3f332bcc2549"
+  },
+  "productCategory": "Paneer",
+  "productImg": "1713102190877demo1.png",
+  "productName": "xyz",
+  "packing": "xyz",
+  "price": "12",
+  "shelfLife": "xyz",
+  "description": "xyz",
+  "timestamp": {
+    "$date": "2024-04-14T13:43:10.891Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661be3a0ab0d3f332bcc262d"
+  },
+  "productCategory": "Milk",
+  "productImg": "1713103776227demo1.png",
+  "productName": "Future Product",
+  "packing": "Not Deside",
+  "price": "00",
+  "shelfLife": "Not Confirm",
+  "description": "Display in Future",
+  "timestamp": {
+    "$date": "2024-04-14T14:09:36.244Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,98 @@
+[{
+  "_id": {
+    "$oid": "65f95f22166a2f850a2ac364"
+  },
+  "userName": "Admin",
+  "email": "vinitkapatel17@gmail.com",
+  "phone": "9510271569",
+  "password": "12345678",
+  "cpassword": "12345678",
+  "isAdmin": true,
+  "__v": 0,
+  "otp": "883195"
+},
+{
+  "_id": {
+    "$oid": "6614fe3ba03259b0af5c78a0"
+  },
+  "userImg": "user.png",
+  "userName": "Vinit Patel",
+  "email": "vupatel17@gmail.com",
+  "phone": "9510271569",
+  "address": "Resi. 2/1234, DALSUKHARAM NI POLE,\nCHAR SHERI,  DHOLKA.",
+  "city": "Ahmedabad",
+  "state": "Gujarat",
+  "pinCode": "382225",
+  "password": "123456789",
+  "cpassword": "123456789",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66167464cd75df7dd2767883"
+  },
+  "userImg": "user.png",
+  "userName": "Rajesh Panchal",
+  "email": "rajeshp54154@gmail.com",
+  "phone": "7984184847",
+  "address": "Gota",
+  "city": "Ahmedabad",
+  "state": "Gujarat",
+  "pinCode": "380081",
+  "password": "7984184847",
+  "cpassword": "7984184847",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6616746dcd75df7dd2767890"
+  },
+  "userImg": "user.png",
+  "userName": "Hitesh",
+  "email": "hitep789@gmail.com",
+  "phone": "7984184847",
+  "address": "Gota",
+  "city": "Ahmedabad",
+  "state": "Gujarat",
+  "pinCode": "380081",
+  "password": "7984184847",
+  "cpassword": "7984184847",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661675b6cd75df7dd27678c8"
+  },
+  "userImg": "user.png",
+  "userName": "Tanti Krish",
+  "email": "tantikrish94@gmail.com",
+  "phone": "9106850046",
+  "address": "Chalala-Khambha Rd, Ingorala",
+  "city": "Amreli",
+  "state": "Gujarat",
+  "pinCode": "364320",
+  "password": "9106850046",
+  "cpassword": "9106850046",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6616765ecd75df7dd27678f0"
+  },
+  "userImg": "user.png",
+  "userName": "Jay",
+  "email": "gohelprakash214@gmail.com",
+  "phone": "6351865717",
+  "address": "Gota",
+  "city": "Ahmedabad",
+  "state": "Gujarat",
+  "pinCode": "380081",
+  "password": "6351865717",
+  "cpassword": "6351865717",
+  "isAdmin": false,
+  "__v": 0
+}]

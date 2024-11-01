@@ -1,0 +1,138 @@
+.content {
+    margin-left: 250px;
+    padding: 20px;
+}
+
+.search {
+    display: flex;
+    align-items: center;
+}
+
+.status-filter {
+    display: flex;
+    align-items: center;
+}
+
+label {
+    margin-left: 20px;
+    margin-right: 10px;
+    font-size: 1rem;
+}
+
+select {
+    padding: 8px;
+}
+
+.main1 {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(600px, 0fr));
+    gap: 50px;
+}
+
+h1 {
+    text-align: center;
+    color: #000000;
+    font-size: 2em;
+    font-family: Arial, sans-serif;
+}
+
+.contact-box {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    width: 600px;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.contact-box .abc {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.contact-box .abc .status {
+    color: #2770b3;
+    display: flex;
+    align-items: center;
+}
+
+.contact-box .abc .status p {
+    color: #2770b3;
+}
+
+.contact-box h3 {
+    color: #141414;
+    font-size: 1.5rem;
+    margin: 5px 0;
+}
+
+.contact-box p {
+    color: #000;
+    margin: 5px 0;
+    font-size: 15px;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    margin-left: 60px;
+    align-items: center;
+}
+
+.buttons button {
+    padding: 8px 16px;
+    /* border: none; */
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.but {
+    width: 100px;
+    text-align: center;
+    background-color: #fff;
+    color: #00d912;
+    border: 1px solid #00d912;
+    padding: 8px 20px;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.but:hover {
+    background-color: #00d912;
+    color: #fff;
+}
+
+.bt {
+    width: 90px;
+    text-align: center;
+    margin-right: 10px;
+    background-color: rgb(249, 186, 70);
+    color: #fff;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.bt:hover {
+    background-color: orange;
+    color: #fff;
+}
+
+
+.del {
+    width: 90px;
+    background-color: #e8664f;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}

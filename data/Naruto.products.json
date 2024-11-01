@@ -1,0 +1,68 @@
+[{
+  "_id": {
+    "$oid": "660d81ea15aa494df93fe268"
+  },
+  "productCategory": "Milk",
+  "productImg": "1712643351878Super-gold.png",
+  "productName": "Maavdi Gold",
+  "description": "Maavdi milk meets the FSSAI standards for the respective type of milk.",
+  "packing": [
+    "160ml"
+  ],
+  "composition": "6.0",
+  "shelfLife": "48 Hours from the date of packing if kept under refrigeration below 8°C",
+  "price": "47",
+  "storageCondition": "Under Refrigeration (Below 8°C)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660d823f15aa494df93fe277"
+  },
+  "productCategory": "Milk",
+  "productImg": "1712161343695taja.jpg",
+  "productName": "Maavdi Taja",
+  "description": "Maavdi milk meets the FSSAI standards for the respective type of milk.",
+  "packing": [
+    "160ml"
+  ],
+  "composition": "3.0",
+  "shelfLife": "48 Hours from the date of packing if kept under refrigeration below 8°C",
+  "price": "19",
+  "storageCondition": "Under Refrigeration (Below 8°C)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660d82de2d88ca0f48989e9f"
+  },
+  "productCategory": "Chass (Butter Milk)",
+  "productImg": "1712161502091khatamitha.jpg",
+  "productName": "Khata Mitha Chaas",
+  "description": "Maavdi milk meets the FSSAI standards for the respective type of milk.",
+  "packing": [
+    "520ml"
+  ],
+  "composition": "-",
+  "shelfLife": "48 Hours from the date of packing if kept under refrigeration below 8°C",
+  "price": "10",
+  "storageCondition": "Under Refrigeration (Below 8°C)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66110cb1a553c49c1f43b598"
+  },
+  "productCategory": "Milk",
+  "productImg": "1712393393888protein-milk1.png",
+  "productName": "protin milk",
+  "description": "gvbhnj",
+  "packing": [
+    "110ml"
+  ],
+  "composition": "bhnjkm",
+  "shelfLife": "mk,",
+  "price": "25",
+  "storageCondition": "hbjnkm",
+  "__v": 0
+}]

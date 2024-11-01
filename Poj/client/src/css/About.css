@@ -1,0 +1,144 @@
+@import url("https://fonts.googleapis.com/css2?family=Exo+2:wght@100&family=Exo:ital,wght@1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Exo:ital,wght@1,900&display=swap");
+
+.about {
+    padding: 2rem 0rem;
+}
+
+.upper,
+.lower {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-bottom: 1rem;
+}
+
+.logo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#logo {
+    width: 70%;
+}
+
+.image {
+    /* background-image: url(https://cdn.dribbble.com/users/696579/screenshots/5415942/drib_test_2.gif); */
+    background-size: cover;
+    width: 36rem;
+    height: 28rem;
+    display: flex;
+    align-items: center;
+    border-radius: 50%;
+}
+
+.camp {
+    position: relative;
+    top: 2.6rem;
+    left: 7.3rem;
+}
+
+#tent {
+    width: 30%;
+}
+
+#fire {
+    width: 15%;
+    position: relative;
+    top: 1rem;
+    right: 1rem;
+}
+
+.info {
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    padding: 0rem 2rem;
+    border-radius: 10px;
+    /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+}
+
+/* .info:hover{
+  transform: scale(1.1);
+} */
+.info h1 {
+    font-family: "Exo", sans-serif;
+    font-size: 3rem;
+    font-weight: black 900;
+    margin-bottom: 0rem;
+}
+
+.head1 {
+    text-decoration: white;
+}
+
+.info p {
+    font-family: "Exo 2", sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.slider {
+    display: flex;
+    align-items: center;
+    padding-top: 3.5rem;
+}
+
+.slider img {
+    width: 36rem;
+    height: 28rem;
+    border-radius: 50%;
+}
+
+/* ------------------------------------ */
+@media (max-width: 768px) {
+    .upper {
+        flex-direction: column;
+        margin-bottom: 0rem;
+    }
+
+    #logo {
+        width: 50%;
+    }
+
+    .image {
+        width: 18rem;
+        height: 14rem;
+    }
+
+    .camp {
+        top: 1.2rem;
+        left: 3rem;
+    }
+
+    .info {
+        width: 85%;
+        padding: 0rem 1.7rem;
+    }
+
+    .info h1 {
+        font-size: 2rem;
+    }
+
+    .info p {
+        font-size: 1rem;
+    }
+
+    .slider {
+        justify-content: center;
+        padding-top: 2rem;
+    }
+
+    .slider img {
+        width: 18rem;
+        height: 14rem;
+    }
+
+    .lower {
+        flex-direction: column-reverse;
+    }
+}

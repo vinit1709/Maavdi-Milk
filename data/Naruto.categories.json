@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "65fac4bcf6db77a668f7b18d"
+  },
+  "categoryName": "Milk",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fac4e8f6db77a668f7b18f"
+  },
+  "categoryName": "Paneer",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fac4fff6db77a668f7b191"
+  },
+  "categoryName": "Makhan (White Butter)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fac511f6db77a668f7b193"
+  },
+  "categoryName": "Chass (Butter Milk)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fac51af6db77a668f7b195"
+  },
+  "categoryName": "Ghee",
+  "__v": 0
+}]
